@@ -16,7 +16,7 @@ I added this project on Github Pages: https://david-webtech.github.io/ono-tebe-n
 1. Clone the repository (see link below)
 2. Open `index.html` in your browser
 
-### https Link for clone my project repository: 
+### HTTPS Link for clone my project repository: 
 
 ```
   https://github.com/david-webtech/ono-tebe-nado.git
